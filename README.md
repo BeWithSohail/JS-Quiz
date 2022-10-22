@@ -1,2 +1,2 @@
 # JS-Quiz
-Generate Quizes using Javascript
+Generate Quiz using Javascript
